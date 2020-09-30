@@ -3,10 +3,10 @@
 
 # Status
 
-**This project is currently under development and is NOT ready to use in a production environment. Expect
-significant changes to the API.**
+**This project is currently under development and is NOT ready to use in a Production Environment. Expect
+Significant changes to the API.**
 
-## Current tasks:
+## Current Tasks:
 * cleanup around libevent threading (currently broken)
 * support Riak 2.0 messages
    * Bucket Types
@@ -268,7 +268,7 @@ Please use the *riak-users* mailing list for questions + comments:
 
 	http://lists.basho.com/mailman/listinfo/riak-users_lists.basho.com
 
-# Contributing
+# Contributing...
 
 If you want to help code, write documentation, or test the Riak C Client:
 
